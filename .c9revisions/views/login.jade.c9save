@@ -1,9 +1,0 @@
-{"ts":1368605049820,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
-{"contributors":[],"silentsave":false,"ts":1368605048927,"patch":[[{"diffs":[[1,"Login"]],"start1":0,"start2":0,"length1":0,"length2":5}]],"length":5,"saved":false}
-{"ts":1368605120563,"patch":[[{"diffs":[[1,"h1='"],[0,"Login"],[1,"'"]],"start1":0,"start2":0,"length1":5,"length2":10}]],"length":10,"saved":false}
-{"ts":1368605265381,"patch":[[{"diffs":[[-1,"h1='Login'"],[1,"form.block-form\n    label(for='login')='Please, enter name'\n    input(type='text', name='login')\n    input(type='submit')"]],"start1":0,"start2":0,"length1":10,"length2":121}]],"length":121,"saved":false}
-{"ts":1368605272539,"patch":[[{"diffs":[[0,"ter name"],[1,":"],[0,"'\n    in"]],"start1":50,"start2":50,"length1":16,"length2":17}]],"length":122,"saved":false}
-{"ts":1368605303887,"patch":[[{"diffs":[[0,"')='"],[-1,"Please, ente"],[1,"You"],[0,"r name"],[1," is"],[0,":'\n "]],"start1":36,"start2":36,"length1":26,"length2":20}]],"length":116,"saved":false}
-{"ts":1368605354963,"patch":[[{"diffs":[[0,":'\n    input"],[1,".input-login"],[0,"(type='text'"]],"start1":52,"start2":52,"length1":24,"length2":36},{"diffs":[[0,"   input"],[1,".input-submit"],[0,"(type='s"]],"start1":105,"start2":105,"length1":16,"length2":29}]],"length":141,"saved":false}
-{"ts":1368605453173,"patch":[[{"diffs":[[0,"'submit'"],[1,", value='Enter'"],[0,")"]],"start1":132,"start2":132,"length1":9,"length2":24}]],"length":156,"saved":false}
-{"ts":1368605635253,"patch":[[{"diffs":[[0,"ock-form"],[1,"(method='post')"],[0,"\n    lab"]],"start1":7,"start2":7,"length1":16,"length2":31}]],"length":171,"saved":false}
