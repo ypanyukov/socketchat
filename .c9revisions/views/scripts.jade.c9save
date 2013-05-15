@@ -1,0 +1,4 @@
+{"ts":1368595700426,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1368595733404,"patch":[[{"diffs":[[1,"script(src='/javascripts/socket.io.min.js')"]],"start1":0,"start2":0,"length1":0,"length2":43}]],"length":43,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1368596443537,"patch":[[{"diffs":[[0,"min.js')"],[1,"\nscript(src='/javascripts/main.js')"]],"start1":35,"start2":35,"length1":8,"length2":43}]],"length":78,"saved":false}
+{"ts":1368596653730,"patch":[[{"diffs":[[0,"in.js')\n"],[1,"script(src='/javascripts/jquery.min.js')\n"],[0,"script(s"]],"start1":36,"start2":36,"length1":16,"length2":57}]],"length":119,"saved":false}
