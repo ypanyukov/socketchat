@@ -11,10 +11,14 @@ $(document).ready(function(){
             socket.emit('writeMessage', {from: window.gct_nickname});
         });
         
+        $('button.block-button').bind('click', function(){
+            socket.emit('sendMessage', {message: $('textarea.block-input').val(), from: window.gct_nickname});
+            $('textarea.block-input').val(''); 
+        });
+        
         $('textarea.block-input').bind('keyup', function(e){
             if (keys.pressed === 17 && e.keyCode === 13 && $(this).val().length > 0){
-                socket.emit('sendMessage', {message: $(this).val(), from: window.gct_nickname});
-                $(this).val('');
+                $('button.block-button').trigger('click');
             }
             keys = {};
         });
