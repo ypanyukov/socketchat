@@ -25,7 +25,7 @@ app.configure('production', function(){
 // Routes
 
 //socket
-require('./game_backend').run(app);
+require('./chat_backend').run(app);
 //socket
 
 app.get('/', routes.index);
